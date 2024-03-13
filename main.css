@@ -1,0 +1,11 @@
+body{
+    background-color: aquamarine;
+    padding: 50px;
+}
+.card{
+    background-color: blueviolet;
+    border-radius: 40px;
+    margin: 100px;
+    height: 140px;
+    text-align: center;
+}
